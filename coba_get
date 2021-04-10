@@ -1,6 +1,0 @@
-def main():
-	x = input('Masukkan Nilai 1 : ')
-	y = input('Masukkan Nilai 2 : ')
-	z = x * y 
-	return z
-main()
