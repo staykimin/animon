@@ -1,6 +1,7 @@
 def main():
 	x = int(input('Masukkan Nilai 1 : '))
 	y = int(input('Masukkan Nilai 2 : '))
-	z = x * y 
-	return z
+	z = x + y 
+	return str(z)
+
 main()
