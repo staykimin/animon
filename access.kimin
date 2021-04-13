@@ -1,6 +1,10 @@
 {
 	"status":"Maintence",
 	"server":[
+			{"satu":{
+				"url":"https://raw.githubusercontent.com/udintc/animon/server/satu.kimin"
+				}
+			},
 			{"get_data":{
 				"url":"google.com"
 				}
