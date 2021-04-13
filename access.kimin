@@ -19,7 +19,8 @@
 				}
 			}
 			],
-	"web_list":[
+	"web_list":["moenime","kurogaze","kuronime"],
+	"control_web":[
 			{"moenime":{
 				"url":"moenime.web.id"
 				}
