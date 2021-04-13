@@ -1,6 +1,6 @@
 {
 	"status":"Maintence",
-	"control_list:["satu","get_data","get_file","generate"]
+	"control_list":["satu","get_data","get_file","generate"],
 	"server":[
 			{"satu":{
 				"url":"https://raw.githubusercontent.com/udintc/animon/server/satu.kimin"
